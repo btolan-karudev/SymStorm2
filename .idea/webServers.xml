@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c34e6870-2fdf-435c-8ff9-eb10c19c4965" name="digitalPhp" url="http://root@178.128.253.149">
+        <fileTransfer host="root@178.128.253.149" port="22" privateKey="C:\Users\BenjiT7\Documents\oceanDig.ppk" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
